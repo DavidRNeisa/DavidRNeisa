@@ -15,8 +15,12 @@
 <img align="right" height="250px" alt="guy" width="330" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
  
 
-- 🌱 &nbsp;i'm currently stundin system engineering
-- 📫 How to reach me **davidroaneisa@gmail.com**
+## 👨‍🎓 About Me  
+
+- 🎓 Currently studying **Systems Engineering**  
+- 🤖 Interested in **Artificial Intelligence**, **WEB Development**, and **Software Architecture**  
+- 💡 Open to collaborating on **open-source projects** and **research initiatives**  
+- 🎯 Goal: keep improving every day and build impactful applications  
 
 
 
